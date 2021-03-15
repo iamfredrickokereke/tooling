@@ -1,10 +1,4 @@
 
-
-## How to use this repository
-The build is automatically triggered by a git push to your feature/[branch]
-
-## First clone the repository to your workstation
-```
 $ git clone https://gitlab.com/propitix/microservices/php-frontend.git
 $ cd frontend-propitix
 ```
