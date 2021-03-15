@@ -1,8 +1,4 @@
 
-### Validate your changes have been triggered by gitlab-ci in
-[propitix-scm] (https://gitlab.com/propitix/microservices/frontend-propitix)
-
-### Check the image have been pushed to
 [Google Container Registry] (https://console.cloud.google.com/gcr/images/non-prod-pdz/EU/frontend-propitix?project=non-prod-pdz&authuser=1&gcrImageListsize=30) (Depending on the environment. Either non-prod or prod)
 
 ## pulling the image
