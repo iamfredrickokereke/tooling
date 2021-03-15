@@ -1,14 +1,6 @@
 
 
 
-Update the application code in
-```
-./html/
-```
-
-Then add/commit/push to gitlab
-
-```
 git status # to see your changes
 ```
 
